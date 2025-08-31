@@ -1,6 +1,3 @@
-# OpenPBS-installation-script
-Automated OpenPBS installation script for Ubuntu 24.04
-
 # OpenPBS installation script
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
