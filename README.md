@@ -315,8 +315,7 @@ Please report issues using our [GitHub Issues](https://github.com/AhmedMejri1/Op
 
 ### v1.0.0 (2025-08-31)
 - Initial release
-- Support for Ubuntu 20.04, 22.04, 24.04
-- Support for RHEL/CentOS/Rocky Linux 7, 8, 9
+- Support for Ubuntu 24.04
 - Interactive and non-interactive installation modes
 - PostgreSQL accounting integration
 - Comprehensive troubleshooting and testing
